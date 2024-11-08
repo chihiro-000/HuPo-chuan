@@ -1,11 +1,15 @@
-🤗欢迎来到我的Power BI主页！
-   Welcome to my Power BI homepage! 
+# Power BI Dashboard
 
-🤓你将会在这里看到一些我用Power BI搭建的数据分析和可视化的项目。
-   Here, you will find some data analysis and visualization projects I have created using Power BI. 
+## 概述
+这里展示了一些我使用Power BI进行的数据分析和可视化作品。希望这些项目能对你有所帮助或启发，同时也希望和更多的小伙伴交流Power BI专业技能。
 
-👩‍🚀希望能和更多的小伙伴交流相关的专业技能。
-   I look forward to exchanging Power BI skills with more fellow enthusiasts.
+## 项目列表
+### 项目一：销售数据分析
+- **描述**：分析公司过去一年的销售数据，识别销售趋势和关键客户。
+- **数据来源**：Excel 文件
+- **主要图表**：
+  - 销售额随时间变化的趋势图
+  - 客户分布地图
+  - 产品类别销售额对比条形图
 
-☀️祝你开心！
-   Have a nice day!
+<iframe width="800" height="600" src="https://app.powerbi.com/groups/me/reports/8425465b-a5cb-4efb-9fd5-f96f7c9348d7/e4b0624171d11eda1258?experience=power-bi" frameborder="0" allowFullScreen="true"></iframe>
