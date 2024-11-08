@@ -12,4 +12,4 @@
   - 客户分布地图
   - 产品类别销售额对比条形图
 
-<iframe width="800" height="600" src="https://app.powerbi.com/groups/me/reports/8425465b-a5cb-4efb-9fd5-f96f7c9348d7/e4b0624171d11eda1258?experience=power-bi" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="Sample Report Demo" width="1140" height="541.25" src="https://playground.powerbi.com/sampleReportEmbed" frameborder="0" allowFullScreen="true"></iframe>
